@@ -1,0 +1,14 @@
+{
+  "TOKEN": "MTIyNzUzMzc0NTY2MjIwMTg3OA.GnDoF7.x6nZDZt7-XZegXziTu1ZhqJy601HBZ14qkvShQ",
+  "ALERTS_CHANNEL_ID": "1198134271886504007",
+  "DEFAULT_ACTIVITY": "HomeGrown Madden Franchise",
+  "DEFAULT_MAXIMUM_TICKETS_PER_USER": 2,
+  "changelogs": [
+    {
+      "date": "04/11/2024",
+      "changes": [
+        "Created bot"
+      ]
+    }
+  ]
+}
